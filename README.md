@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Jurjen a 30 somehting PHP developer living in Belgium
+
 <!--
 **Juje/juje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
